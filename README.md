@@ -1,2 +1,2 @@
 # golang-sandbox
-Golang tutorial project 
+Golang tutorial projects
